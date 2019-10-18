@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://beirivieha.events-timer.eu/sitemap.xml
